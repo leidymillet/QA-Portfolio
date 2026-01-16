@@ -11,5 +11,5 @@ Este proyecto corresponde a pruebas funcionales y automatizadas sobre la aplicac
 
 ## Herramientas utilizadas
 - Cypress (automatización E2E)
-- Postman (validación de APIs)
+- Postman (validación de APIs REST)
 - GitHub (documentación y gestión de defectos)
