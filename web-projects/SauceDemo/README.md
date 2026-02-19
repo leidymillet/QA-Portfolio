@@ -1,6 +1,6 @@
 # SauceDemo – Proyecto Web QA
 
-Este proyecto corresponde a pruebas funcionales y automatizadas sobre la aplicación de e-commerce **SauceDemo** https://www.saucedemo.com/  
+Este proyecto corresponde a pruebas funcionales y automatizadas sobre la aplicación de e-commerce [SauceDemo](https://www.saucedemo.com/)
 El objetivo es validar los flujos críticos de un sitio de compras en línea: login, catálogo de productos, carrito y checkout.
 
 ---
