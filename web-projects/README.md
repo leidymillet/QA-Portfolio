@@ -7,7 +7,7 @@ Cada proyecto incluye su propio plan de pruebas, casos, reportes y scripts de au
 
 ## 📌 Proyectos incluidos
 
-### 1. SauceDemo – E-commerce
+### [SauceDemo – E-commerce](./SauceDemo)
 - **Descripción:** Pruebas funcionales y automatizadas sobre un sitio de compras en línea.  
 - **Alcance:** login, catálogo de productos, carrito, checkout, logout, APIs REST.  
 - **Artefactos principales:**  
